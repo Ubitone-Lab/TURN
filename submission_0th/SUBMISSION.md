@@ -1,4 +1,4 @@
-# What do Ubitone members do as a TURN member. <img src="../pictures/white_logo.png" height="48" width=auto alt="Ubitone Logo">
+# What Ubitone members do as a TURN member. <img src="../pictures/white_logo.png" height="48" width=auto alt="Ubitone Logo">
 ## Motivation
 * Design & Technologyによる人間の身体性の拡張
 * Design & Technologyによる社会の余白の拡大
