@@ -15,4 +15,4 @@
 - 山蔦栄太郎 Ubitone代表 機械工学専攻
 - 橋本瞭 Ubitoneデザイン責任者 デザイン科専攻
 
-![Ubitone Logo](../pictures/white_logo.png)
+<img src="../pictures/white_logo.png" height="48" width="48">
